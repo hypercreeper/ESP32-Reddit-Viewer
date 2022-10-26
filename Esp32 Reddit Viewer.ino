@@ -17,8 +17,8 @@
 #include <WiFiUdp.h>
 #include <TFT_eSPI.h>
 
-const char* ssid = "Moukayed";
-const char* password = "0566870554";
+const char* ssid = "???";
+const char* password = "???";
 
 String subreddit = "showerthoughts";
 String limit = "4";
